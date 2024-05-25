@@ -1,0 +1,23 @@
+CCNA INTER VLAN PROJECT USING SUB-NETTING 
+3-Different vlan :- 
+1.Vlan 2 IT
+2.vlan 3 HR
+3.vlan 4 Reception
+***********************************************
+create this 3 vlan in switch and configuration
+***********************************************
+Network 192.168.0.1
+Subnet Mask 255.255.255.0
+After Subnet
+Network 1
+192.168.0.0
+255.255.255.192
+Network 2
+192.168.0.64
+255.255.255.192
+Network 3
+192.168.0.128
+255.255.255.192
+----------------------------------------------
+
+
